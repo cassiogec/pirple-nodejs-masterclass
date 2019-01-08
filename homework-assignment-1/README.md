@@ -8,12 +8,12 @@ Please create a simple "Hello World" API. Meaning:
 
 ## Usage
 In the terminal, inside the project folder
-`node index.js`
+```node index.js```
 Or choose between `staging` and `production` environments
-`NODE_ENV=production node index.js`
+```NODE_ENV=production node index.js```
 
 Using curl, do a request on the path /hello
-`curl localhost:3000/hello`
+```curl localhost:3000/hello```
 And it will return the status 200 and the JSON
 ```json
 {
