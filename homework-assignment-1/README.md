@@ -6,6 +6,23 @@ Please create a simple "Hello World" API. Meaning:
 
 2. When someone posts anything to the route /hello, you should return a welcome message, in JSON format. This message can be anything you want. 
 
+## Grade
+```Great work Cassio!
+
+Grade: A+ ✅ - Grading Rubric Below:
+
+[x] Feature Complete
+[x] Uses the necessary Node APIs
+[x] Avoids NPM
+[x] Clear, concise and readable code
+[x] Well-commented files
+[x] Well-organized structure
+
+Bonus Points:
+
+[x] Added a Readme
+[x] Used ES6 conventions
+```
 ## Usage
 In the terminal, inside the project folder
 ```
