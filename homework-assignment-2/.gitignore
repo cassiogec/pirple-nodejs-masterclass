@@ -1,0 +1,4 @@
+app/.data/tokens/*
+app/.data/users/*
+app/.data/carts/*
+app/.data/orders/*
