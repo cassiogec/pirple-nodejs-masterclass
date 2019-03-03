@@ -27,6 +27,7 @@ Required: `firstName`, `lastName`, `email` `streetAddress`, `password`
 **URL**: `/users?email='email@domain.com'`  
 **Request Headers**:  
 `token: <tokenId>`  
+
 **Response example**:  
 ```json
 {
