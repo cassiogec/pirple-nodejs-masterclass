@@ -10,6 +10,7 @@
 **URL**: `/tokens`  
 **Request body**  
 Required: `email`, `password`
+
 **Request example**:
 ```json
 {
@@ -46,6 +47,7 @@ Required: `email`, `password`
 **Request body**  
 Required: `id`,  
 Optional: `extend`
+
 **Request example**:
 ```json
 {

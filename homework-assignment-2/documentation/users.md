@@ -10,6 +10,7 @@
 **URL**: `/users`  
 **Request body**  
 Required: `firstName`, `lastName`, `email` `streetAddress`, `password`
+
 **Request example**:
 ```json
 {
@@ -44,6 +45,7 @@ Required: `firstName`, `lastName`, `email` `streetAddress`, `password`
 **Request body**  
 Required: `email`  
 Optional (at least one must be given): `firstName`, `lastName`, `streetAddress` or `password`
+
 **Request example**:
 ```json
 {

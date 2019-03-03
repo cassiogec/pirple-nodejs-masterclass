@@ -10,6 +10,7 @@
 **URL**: `/carts`  
 **Request body**  
 Required: `email`, `itemId`, `quantity`
+
 **Request example**:
 ```json
 {
@@ -49,6 +50,7 @@ The id of the cart
 `token: <tokenId>`  
 **Request body**  
 Required: `email`, `itemId`, `quantity`
+
 **Request example**:
 ```json
 {
