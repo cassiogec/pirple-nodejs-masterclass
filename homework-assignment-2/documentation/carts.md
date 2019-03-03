@@ -65,6 +65,6 @@ Required: `email`, `itemId`, `quantity`
 **Method**: `DELETE`  
 **URL**: `/carts?email='email@domain.com&itemId=aaaaaaaaaaaaaaaaaaaa'`  
 **Request Headers**:  
-`token: <tokenId>`
+`token: <tokenId>`  
 **Request body**  
 Required: `email`, `itemId`
