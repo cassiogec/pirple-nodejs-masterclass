@@ -27,6 +27,7 @@ Required: `email`, `itemId`, `quantity`
 The id of the cart  
 **Request Headers**:  
 `token: <tokenId>`  
+
 **Response example**:  
 ```json
 {

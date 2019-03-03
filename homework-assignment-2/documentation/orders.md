@@ -14,6 +14,7 @@ Required: `email`
 	"email": "john@doe.com"
 }
 ```
+
 **Response example**:  
 ```json
 {

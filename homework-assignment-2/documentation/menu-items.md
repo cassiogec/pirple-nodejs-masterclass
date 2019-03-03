@@ -8,7 +8,8 @@
 **Request Headers**:  
 `token: <tokenId>`  
 **Request body**  
-Required: `email` 
+Required: `email`
+
 **Response example**:  
 ```json
 {

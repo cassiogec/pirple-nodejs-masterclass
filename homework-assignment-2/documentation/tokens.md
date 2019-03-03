@@ -45,7 +45,7 @@ Required: `email`, `password`
 **Method**: `PUT`  
 **URL**: `/tokens`  
 **Request body**  
-Required: `id`,  
+Required: `id`
 Optional: `extend`
 
 **Request example**:
