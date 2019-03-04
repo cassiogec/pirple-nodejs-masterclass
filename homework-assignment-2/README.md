@@ -14,6 +14,18 @@ You are building the API for a pizza-delivery company. Don't worry about a front
 
 6. When an order is placed, you should email the user a receipt. You should integrate with the sandbox of Mailgun.com for this.
 
+## Grade
+```Grade: A+ ✅ - Grading Rubric Below:
+
+[x] Feature Complete
+[x] API calls are well-documented / explained
+[x] Crafts the Mailgun API HTTP request from scratch
+[x] Crafts the Stripe API HTTP request from scratch
+[x] Avoids NPM
+[x] Clear, concise and readable code
+[x] Well-organized structure
+```
+
 ## API Documentation
 | Route | Description |
 | --- | --- |
